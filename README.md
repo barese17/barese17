@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Azamat Atikeyev and I'm from Kazakhstan.
+My name is Azamat Atikeyev and I'm from Kazakhstan.  
 I'm a creative front-end developer and animator.
 
 Email: azamat.atikeyev17@gmail.com
