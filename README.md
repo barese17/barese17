@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Azamat Atikeyev and I'm from Kazakhstan.
+I'm a creative front-end developer and animator.
+
+Email: azamat.atikeyev17@gmail.com
+
 <!--
 **barese17/barese17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
